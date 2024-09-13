@@ -2,6 +2,9 @@
 
 Este projeto é uma lista de tarefas simples e dinâmica, criada com **HTML** e **JavaScript**. Ele permite que o usuário adicione tarefas à lista, marque-as como concluídas e as risque com um estilo visual para indicar o progresso. Além disso, ao marcar uma tarefa como concluída, o sistema exibe um alerta informando que a tarefa foi finalizada.
 
+## Ver o projeto em funcionamento
+Basta colar o seguinte link no seu navegador:
+https://aleckdevv.github.io/ListaDetarefas.github.io/
 ## Funcionalidades
 
 - Adição de novas tarefas ao pressionar a tecla **Enter**.
